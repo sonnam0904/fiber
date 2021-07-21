@@ -1,9 +1,9 @@
 {
-  "mysql_db_0": "chatbizfly_v2:D5XudxPwsN2KqelK@(10.5.28.31:3306)/chatbizfly_v2?charset=utf8&parseTime=True&loc=Local",
-  "mongo_db_uri": "mongodb://:@10.5.16.236:27017/",
+  "mysql_db_0": "",
+  "mongo_db_uri": "",
   "mongo_db": "chat_bizfly",
   "redis": {
-    "redis_host": "10.5.28.20:63810",
+    "redis_host": "",
     "redis_pass": ""
   }
 }
